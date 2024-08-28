@@ -1,0 +1,141 @@
+<suite name="NEAD KGB Tests">
+
+    <test name="Online_Offline_Simulation">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.NeadPreCheck" />
+        </classes>
+    </test>
+    
+    <test name="Nead AFIT Network FullSync">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.NetworkFullSync" />
+        </classes>
+    </test>
+    
+   <test name="Sync a node">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.AutomateNodes_ManualSync" />
+        </classes>
+    </test>
+
+    <test name="Generate AVC notifications on CPP nodes">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.CppAvc" />
+        </classes>
+    </test>
+
+    <test name="Generate AVC notifications on CPP nodes New">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.NewCppAvc" />
+        </classes>
+    </test>
+
+      <test name="Perform DeltaSync on node">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.DeltaSync" />
+        </classes>
+    </test>
+
+    <test name="NEAD handles CreateMO Notifications">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.CreateMo" />
+        </classes>
+    </test>
+
+    <test name="NEAD handles DeleteMO Notifications">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.DeleteMo" />
+        </classes>
+    </test> 
+
+    <test name="NEAD Handles AVC Notifications">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.SetMo" />
+        </classes>
+    </test>
+
+   <test name="Nead handles sequence delta notifications">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.SequenceDeltaNotification" />
+        </classes>
+    </test>
+
+    <test name="Full Sync With AVC">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.FullSyncWithAVC" />
+        </classes>
+    </test>
+
+    <test name="Node Overflow Notification">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.NodeOverflowNotification" />
+        </classes>
+    </test>
+
+    <test name="Add X2 Event for the Creating of LTE EUtranCell Relation MO">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.X2EventCellRelationMO" />
+        </classes>
+    </test>
+
+    <test name="NEAD retries a failed plan activation">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.NeadRetryActivation" />
+        </classes>
+    </test> 
+
+  <test name="Nead Initial Sync Mixed RBS/ERBS">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.MixedNode" />
+        </classes>
+    </test>
+    
+       <test name="Nead Initial Sync Rds RBS/ERBS">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.RdsNode" />
+        </classes>
+    </test>
+       
+    <test name="Nead CPP-version-updation">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.CppVersion" />
+        </classes>
+    </test> 
+
+    <test name="Verify all Netsim nodes against nodes in CS">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.NodesInNetsimandCS" />
+        </classes>
+    </test> 
+    
+     <test name="Extra struct member handling">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.ExtraStructMembers" />
+        </classes>
+    </test> 
+    <test name="NEAD Disconnect a Node">
+    	<classes>
+    		<class name="com.ericsson.oss.cms.test.cases.AutomateNodes_ManualDisconnect" />
+    	</classes>
+    </test>
+             
+    <test name="Perform AFIT DeltaSync on node">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.AFITDeltaSync" />
+        </classes>
+    </test> 
+    
+   <!-- <test name="Mixed Mode Handling for MeContext.">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.MixedModeForMeContext" />
+        </classes>
+    </test> -->
+    
+   <test name="NEAD - Support for filtering (blacklist) at attribute level">
+	<classes>
+	    <class name="com.ericsson.oss.cms.test.cases.BlackListAttributes" />
+	</classes>
+   </test>
+
+</suite>
+

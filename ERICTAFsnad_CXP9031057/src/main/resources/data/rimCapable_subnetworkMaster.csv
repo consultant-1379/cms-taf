@@ -1,0 +1,3 @@
+sourceNodeType,sourceNodeAdditionalFiltering,sourceMaster,proxyMoType,attributeName,rimCapableValue,updatedRimCapable,masterRimCapable
+ERBS,"ENodeBFunction==1",EUtranCellFDD,ExternalUtranCellFDD,rimCapable,"1","0","0"
+ERBS,"ENodeBFunction==1",EUtranCellTDD,ExternalUtranCellFDD,rimCapable,"1","0","0"

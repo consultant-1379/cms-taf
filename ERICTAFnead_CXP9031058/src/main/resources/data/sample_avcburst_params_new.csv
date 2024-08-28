@@ -1,0 +1,8 @@
+frequency,num_events,MO,attribute,values,nodeType,percentage,offset
+5,25,"ManagedElement=1,ENodeBFunction=1",userLabel,"one,two",ERBS,5,0
+5,25,"ManagedElement=1,NodeBFunction=1",userLabel,"one,two",RBS,5,0
+5,25,"ManagedElement=1,MrfpFunction=1",userLabel,"one,two",MGW,5,0
+
+
+
+

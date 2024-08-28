@@ -1,0 +1,3 @@
+nodeType,moType,auxPlugin_attributes,auxPlugin_AttributeValues,sector_attributes,sector_AttributeValues,baseNodeVersion
+ERBS,"AuxPlugInUnit,SectorEquipmentFunction","isSharedWithExternalMe","true","mixedModeRadio","true",H.1.220
+RBS,"AuxPlugInUnit,Sector","isSharedWithExternalMe","true","mixedModeRadio","true",U.4.490

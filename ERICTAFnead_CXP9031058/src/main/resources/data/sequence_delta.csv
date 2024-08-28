@@ -1,0 +1,4 @@
+nodeType,targetMoType,sourceMoType,parentMoType,attributeNames,attributeValues,referenceAttribute,referenceType
+RBS,Carrier,RbsLocalCell,NodeBFunction,"localCellId","99","carriersRef",sequence
+RNC,UtranNetwork,IurLink,RncFunction,"IurLinkId,rncId,userPlaneTransportOption","TAF_OSS-53407_SDN,999,'[0,0]'","utranNetworkRef",string
+ERBS,EUtranFrequency,ExternalEUtranCellFDD,ExternalENodeBFunction,"localCellId,physicalLayerCellIdGroup,physicalLayerSubCellId,tac","254,1,1,1","eutranFrequencyRef",string

@@ -1,0 +1,2 @@
+nodeType,cellRelationType,cellRelAttrName,cellRelAttrDataType
+ERBS,EUtranCellRelation,neighborCellRef,Ref

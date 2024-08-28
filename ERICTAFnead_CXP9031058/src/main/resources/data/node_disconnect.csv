@@ -1,0 +1,5 @@
+neType,percentage,pollrateConnected,pollrateDisconnected
+RBS,5,nesuPollrateConnectedRBS,nesuPollrateDisconnectedRBS
+RNC,20,nesuPollrateConnectedNE,nesuPollrateDisconnectedNE
+ERBS,5,nesuPollrateConnectedRBS,nesuPollrateDisconnectedERBS
+MGW,20,nesuPollrateConnectedMGW,nesuPollrateDisconnectedMGW

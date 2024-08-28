@@ -1,0 +1,7 @@
+<suite name="TEST KGB Tests">
+    <test name="Verify sixth conflict propagation">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.ProxyToMasterPropagationSixthConflict" />
+        </classes>
+    </test>
+ </suite>

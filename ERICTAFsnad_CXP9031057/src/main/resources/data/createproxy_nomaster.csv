@@ -1,0 +1,6 @@
+nodeType,sourceNodeAdditionalFiltering,proxyParentType,relationParentType,proxyType,proxyAttrs,proxyVals,relationType,relationAttrs,relationVals,masterAttrs,relationMasterRef,autoFixParam
+MSRBS_V1,"ENodeBFunction==1&&NodeBFunction==0",Cdma2000FreqBand,Cdma2000FreqBandRelation,Cdma2000Freq,"freqCdma,cdma2000FreqId","2001,TAF_OSS-51713_CreateProxy",Cdma2000FreqRelation,"cdma2000FreqRelationId,cdma2000FreqRef",TAF_OSS-51713_CreateProxy,"freqCdma,ExternalCdma2000FreqId",adjacentFreq,ProxyCdma2000FreqAutoFix
+#ERBS,"ENodeBFunction==1",Cdma2000FreqBand,Cdma2000FreqBandRelation,Cdma2000Freq,"freqCdma,Cdma2000FreqId","2000,TAF_OSS-51713_CreateProxy",Cdma2000FreqRelation,"Cdma2000FreqRelationId,cdma2000FreqRef",TAF_OSS-51713_CreateProxy,"freqCdma,ExternalCdma2000FreqId",adjacentFreq,ProxyCdma2000FreqAutoFix
+RADIO,"NodeBFunction==0&&ENodeBFunction==1",Cdma2000FreqBand,Cdma2000FreqBandRelation,Cdma2000Freq,"freqCdma,cdma2000FreqId","2000,TAF_OSS-51713_CreateProxy",Cdma2000FreqRelation,"cdma2000FreqRelationId,cdma2000FreqRef",TAF_OSS-51713_CreateProxy,"freqCdma,ExternalCdma2000FreqId",adjacentFreq,ProxyCdma2000FreqAutoFix
+
+

@@ -1,0 +1,6 @@
+nodeType,sourceNodeAdditionalFiltering,moType
+ERBS,"ENodeBFunction==1","EUtranCellFDD"
+ERBS,"ENodeBFunction==1","EUtranCellTDD"
+MSRBS_V1,"ENodeBFunction==1&&NodeBFunction==0","EUtranCellFDD"
+RADIO,"NodeBFunction==0&&ENodeBFunction==1","EUtranCellFDD"
+RADIO,"NodeBFunction==0&&ENodeBFunction==1","EUtranCellTDD"

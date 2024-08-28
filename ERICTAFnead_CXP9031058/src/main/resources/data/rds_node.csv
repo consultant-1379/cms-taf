@@ -1,0 +1,3 @@
+fdn,fdnProd,prodDesignation
+"SubNetwork=ONRM_ROOT_MO_R,SubNetwork=RNC21,MeContext=RNC21RBS01","SubNetwork=ONRM_ROOT_MO_R,SubNetwork=RNC21,MeContext=RNC21RBS01,ManagedElement=1","prodDesignation"
+"SubNetwork=ONRM_ROOT_MO_R,SubNetwork=LTE31,MeContext=LTE31ERBS00001","SubNetwork=ONRM_ROOT_MO_R,SubNetwork=LTE31,MeContext=LTE31ERBS00001,ManagedElement=1","prodDesignation"

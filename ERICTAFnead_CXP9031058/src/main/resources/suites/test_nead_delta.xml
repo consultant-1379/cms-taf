@@ -1,0 +1,11 @@
+<suite name="NEAD KGB Tests">
+       
+    <test name="Perform DeltaSync on node">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.DeltaSync" />
+        </classes>
+    </test>
+
+</suite>
+
+

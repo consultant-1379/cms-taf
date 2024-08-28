@@ -1,0 +1,2 @@
+relationMo,nodeRelationType,createBaselineRate,deleteBaselineRate,kpiPercentDeviation,iterations,localFileDir,totalMos
+UtranRelation,Intra,5,5,5,3,/CMS_STKPI/,1000

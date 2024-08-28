@@ -1,0 +1,7 @@
+sourceNodeType,sourceNodeAdditionalFiltering,sourceMaster,proxyMoType,attributeName,srvccValue,updatedSrvcc,masterSrvcc
+ERBS,"ENodeBFunction==1",EUtranCellFDD,ExternalUtranCellFDD,srvccCapability,"1","2","2"
+ERBS,"ENodeBFunction==1",EUtranCellTDD,ExternalUtranCellFDD,srvccCapability,"1","2","2"
+RADIO,"NodeBFunction==0&&ENodeBFunction==1",EUtranCellFDD,ExternalUtranCellFDD,srvccCapability,"1","2","2"
+RADIO,"NodeBFunction==0&&ENodeBFunction==1",EUtranCellTDD,ExternalUtranCellFDD,srvccCapability,"1","2","2"
+RADIO,"NodeBFunction==1&&ENodeBFunction==1",EUtranCellFDD,ExternalUtranCellFDD,srvccCapability,"1","2","2"
+RADIO,"NodeBFunction==1&&ENodeBFunction==1",EUtranCellTDD,ExternalUtranCellFDD,srvccCapability,"1","2","2"

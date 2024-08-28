@@ -1,0 +1,14 @@
+<suite name="CMS WRAN Continuous Deployment Tests">
+
+    <test name="Sync a node">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.AutomateNodes_ManualSync" />
+        </classes>
+    </test>
+
+    <test name="Disconnect a node">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.AutomateNodes_ManualDisconnect" />
+        </classes>
+    </test>
+</suite>

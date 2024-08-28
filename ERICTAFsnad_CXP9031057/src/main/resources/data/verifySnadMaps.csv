@@ -1,0 +1,10 @@
+nodeType,sourceNodeAdditionalFiltering,moType,attributeName,primaryAttributeValue,secondaryAttributeValue
+ERBS,"ENodeBFunction==1","EUtranCellFDD",cellId,200,201
+ERBS,"ENodeBFunction==1","EUtranCellTDD",cellId,200,201
+RNC,"RncFunction==1",UtranCell,cId,6000,8999
+RADIO,"NodeBFunction==0&&ENodeBFunction==1",EUtranCellFDD,cellId,210,211
+RADIO,"NodeBFunction==0&&ENodeBFunction==1",EUtranCellTDD,cellId,210,211
+RADIO,"NodeBFunction==1&&ENodeBFunction==1",EUtranCellFDD,cellId,220,221
+RADIO,"NodeBFunction==1&&ENodeBFunction==1",EUtranCellTDD,cellId,220,221
+MSRBS_V1,"NodeBFunction==0&&ENodeBFunction==1",EUtranCellFDD,cellId,211,245
+MSRBS_V1,"ENodeBFunction==1&&NodeBFunction==1",EUtranCellFDD,cellId,200,201

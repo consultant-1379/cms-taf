@@ -1,0 +1,3 @@
+testId,proxyType,parentType,mandatoryAttributes,mandatoryAttributeValues,attributeToSet,valueToSet
+1.2.3,ExternalENodeBFunction,EUtraNetwork,"eNodeBPlmnId,ExternalENodeBFunctionId,eNBId","struct PlmnIdentity{long mcc=353;long mnc=57;long mncLength=2;},TAF_EUtraNetwork,731",eNBId,918456
+1.2.4,ExternalEUtranCellFDD,ExternalENodeBFunction,"physicalLayerSubCellId,eutranFrequencyRef,tac,physicalLayerCellIdGroup,ExternalEUtranCellFDDId,localCellId","2,'SubNetwork=....EUtranFrequency=3',1,45,TAF,6",tac,57195

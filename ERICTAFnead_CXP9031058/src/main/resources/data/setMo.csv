@@ -1,0 +1,10 @@
+nodeType,moType,attributes,primaryAttributeValues,secondaryAttributeValues
+RNC,UtranCell,"cyclicAcbCs","'[1, 4]'","'[0, 5]'"
+RNC,UtranCell,"userLabel,cyclicAcbCs","'My Cell','[1, 4]'","'My Other Cell','[0, 5]'"
+RNC,UtranCell,"pagingPermAccessCtrl","'[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 0, 0]'","'[[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 1, 1]'"
+RNC,UtranCell,"dchIflsThreshCode,userLabel,accessClassNBarred,loadBasedHoType,ganHoEnabled","99,testLabel1,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]',1,1","100,testLabel2,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]',0,0"
+ERBS,EUtranCellFDD,"pZeroNominalPusch","'-103'","10"
+ERBS,EUtranCellFDD,"physicalLayerCellIdGroup,cellSubscriptionCapacity,additionalPlmnReservedList","10,1000,'[false, false, false, false, false]'","11,12000,'[true, false, true, false, true]'"
+RBS,RbsLocalCell,"minBitRate","'[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'","'[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]'"
+RBS,RbsLocalCell,"minBitRateMinCqi,featureStateEnhancedLayer2","8,0","9,1"
+MGW,PerformanceSupervisionRule,"userLabel,thresholdType","testLabel1,0","testLabel2,1"

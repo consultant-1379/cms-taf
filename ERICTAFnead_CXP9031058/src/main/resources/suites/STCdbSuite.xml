@@ -1,0 +1,15 @@
+<suite name="System Test CMS CDB Tests">
+
+    <test name="KPI test for Node Sync">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.NodeSyncKpi" />
+        </classes>
+    </test>
+	
+    <test name="KPI test for WRAN Activation">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.Activate1000RelationKpi" />
+        </classes>
+    </test>
+
+</suite>

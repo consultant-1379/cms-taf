@@ -1,0 +1,4 @@
+fdn,nodeType,ucFdn,ucAttrNames,ucAttrValues
+"SubNetwork=ONRM_ROOT_MO_R,SubNetwork=RNC21,MeContext=RNC21","RNC21","UtranCell","absPrioCellRes,tCell,uarfcnUl,uarfcnDl,primaryScramblingCode,sib1PlmnScopeValueTag,operationalState,availabilityStatus,administrativeState,maxRate,aseDlAdm,interPwrMax,lac,sac,localCellId,cId,utranCellIubLink","'cellReselectionPriority:3,sPrioritySearch1:16,sPrioritySearch2:4,threshServingLow:16,measIndFach:1',5,787,1012,3,1,1,1,1,16000,400,100,1256,1256,48971,48971,test"
+
+

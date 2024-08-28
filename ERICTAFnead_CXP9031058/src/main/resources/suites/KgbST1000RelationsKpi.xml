@@ -1,0 +1,10 @@
+<suite name="KGB ST Activate 1000 Relations Test">
+    <parameter name="taf.data-provider" value="intraUtranRelationKpi"></parameter>
+
+    <test name="Creates 1000 intra utranrelations">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.Activate1000RelationKpi" />
+        </classes>
+    </test>  
+
+</suite>

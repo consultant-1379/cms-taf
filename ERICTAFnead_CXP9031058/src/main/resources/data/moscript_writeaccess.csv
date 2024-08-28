@@ -1,0 +1,6 @@
+user_type,user_name,user_passwd,expected_result
+SYS_ADM,suser1,suser101,true
+OPE,suser1,suser101,true
+ASS_OPE,assope1,assope101,false
+
+

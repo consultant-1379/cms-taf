@@ -1,0 +1,3 @@
+nodeType,freqGroupType,parentType,proxyType,proxyAttrNames,proxyAttrValues,proxyGeranGroupRefAttr,proxyGeranGroupRefAttrType,masterAttrNames,autoFixParam
+ERBS,GeranFreqGroup,GeranFreqGroup,GeranFrequency,"GeranFrequencyId,arfcnValueGeranDl,userLabel","TAF_OSS-55647_Create_GeranFrequency,1000,1",,,"ExternalGsmFreqId,arfcnValueGeranDl",ProxyGeranFrequencyAutoFix
+ERBS,GeranFreqGroup,GeraNetwork,GeranFrequency,"GeranFrequencyId,arfcnValueGeranDl,userLabel","TAF_OSS-55647_Create_GeranFrequency,1001,1",geranFreqGroupRef,sequence,"ExternalGsmFreqId,arfcnValueGeranDl",ProxyGeranFrequencyAutoFix

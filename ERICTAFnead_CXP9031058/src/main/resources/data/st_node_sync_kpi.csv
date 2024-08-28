@@ -1,0 +1,4 @@
+nodeFdn,moPerSecBaseline,timesToRun,moReadDeviationPercent
+"SubNetwork=ONRM_ROOT_MO_R,SubNetwork=RNC16,MeContext=RNC16",911,10,10
+"SubNetwork=ONRM_ROOT_MO_R,SubNetwork=NETSimW,MeContext=K100C116902",1369,10,10
+"SubNetwork=ONRM_ROOT_MO_R,SubNetwork=LTE04,MeContext=LTE04ERBS00159",254,10,10

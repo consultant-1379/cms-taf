@@ -1,0 +1,7 @@
+targetNodeType,targetMaster,proxyMoType,attributeName,rimCapableValue,updatedRimCapable,masterRimCapable,sourceNodeType,sourceNodeAdditionalFiltering,sourceMaster,uarfcnDlattr
+RNC,UtranCell,ExternalUtranCellFDD,rimCapable,"1","0","0",ERBS,"ENodeBFunction==1",EUtranCellFDD,uarfcnDl
+RNC,UtranCell,ExternalUtranCellFDD,rimCapable,"1","0","0",ERBS,"ENodeBFunction==1",EUtranCellTDD,uarfcnDl
+RNC,UtranCell,ExternalUtranCellFDD,rimCapable,"1","0","0",RADIO,"NodeBFunction==0&&ENodeBFunction==1",EUtranCellFDD,uarfcnDl
+RNC,UtranCell,ExternalUtranCellFDD,rimCapable,"1","0","0",RADIO,"NodeBFunction==0&&ENodeBFunction==1",EUtranCellTDD,uarfcnDl
+RNC,UtranCell,ExternalUtranCellFDD,rimCapable,"1","0","0",RADIO,"NodeBFunction==1&&ENodeBFunction==1",EUtranCellFDD,uarfcnDl
+RNC,UtranCell,ExternalUtranCellFDD,rimCapable,"1","0","0",RADIO,"NodeBFunction==1&&ENodeBFunction==1",EUtranCellTDD,uarfcnDl

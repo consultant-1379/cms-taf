@@ -1,0 +1,7 @@
+nodeType,parentMoType,moType,attributes,attributeValues
+RNC,SwManagement,SwAllocation,"SwAllocationId,role","TAF_OSS-47933_CreateMO,admin"
+RNC,RncFunction,UtranNetwork,"UtranNetworkId,plmnIdentity,aliasPlmnIdentities","TAF_OSS-47933_CreateMO,'[125,234,2]','[[1,1,2],[1,1,2]]'"
+RNC,IurLink,ExternalUtranCell,"ExternalUtranCellId,hsAqmCongCtrlSpiSupport,cId,lac,primaryScramblingCode,rac,uarfcnDl,uarfcnUl","TAF_OSS-47933_CreateMO,'[1,2,3,4,5]',155,9,1,9,10654,12"
+RBS,SwManagement,SwAllocation,"SwAllocationId,role","TAF_OSS-47933_CreateMO,admin"
+ERBS,SwManagement,SwAllocation,"SwAllocationId,role","TAF_OSS-47933_CreateMO,admin"
+MGW,SwManagement,SwAllocation,"SwAllocationId,role","TAF_OSS-47933_CreateMO,admin"

@@ -1,0 +1,87 @@
+ <suite name="SNAD KGB Tests">
+
+    <test name="Create Proxy no Master">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.CreateProxyNoMaster" />
+        </classes>
+    </test>
+    
+    <test name="SNAD cache does not contain duplicates">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.VerifySNADCacheMaps" />
+        </classes>
+    </test>
+
+    <test name="SNAD startup triggers node recovery">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.StartupNodeRecovery" />
+        </classes>
+    </test>
+
+    <test name="SNAD startup triggers SubNetwork recovery">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.StartupSubNetworkRecovery" />
+        </classes>
+    </test> 
+
+    <!--<test name="Create Proxy GeranFrequency when no master exists">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.CreateProxyGeranFrequencyNoMaster" />
+        </classes>
+    </test>-->
+
+   <test name="SNAD Synchronises RNC's with dependencies on one another">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.RncSyncWithDependencies" />
+        </classes>
+    </test>
+    
+    <test name="SrvccCapability value Propagation of Proxy MO ExternalUtanCellFDD">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.SrvccCapabilityValuePropagation_NodeMaster" />
+        </classes>
+    </test>   
+    
+    <test name="SrvccCapability value Propagation of Proxy MO ExternalUtanCellFDD in Subnetwork Master">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.SrvccCapabilityValuePropagation_SubNetworkMaster" />
+        </classes>
+    </test>
+    
+    <test name="RimCapable value propagation of Proxy MO ExternalUtranCellFDD in Node Master">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.RimCapable_NodeMaster" />
+        </classes>
+    </test>
+    
+    <test name="RimCapable value propagation of Proxy MO ExternalUtranCellFDD in Subnetwork Master">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.RimCapable_SubnetworkMaster" />
+        </classes>
+    </test>
+    
+    <test name="Verifying pci sixth conflict propagation">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.ProxyToMasterPropagationSixthConflict" />
+        </classes>
+    </test>
+    
+    <test name="Propagating conflicts from Proxy to Master">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.PropagatingConflictsFromProxyToMaster" />
+        </classes>
+    </test>
+    
+     <test name="Reconnected ERBS will be added back into the Cache">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.ReconnectedERBS" />
+        </classes>
+    </test>
+    
+     <test name=" Node sync for all CPP nodes ">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.LicenseSync" />
+        </classes>
+    </test>   
+    
+</suite> 

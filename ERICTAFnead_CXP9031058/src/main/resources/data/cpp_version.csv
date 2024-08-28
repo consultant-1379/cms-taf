@@ -1,0 +1,5 @@
+fdn,cppVersion,cppVersionValue
+"SubNetwork=ONRM_ROOT_MO_R,SubNetwork=LTE31,MeContext=LTE31ERBS00003","cppVersion","CPPTAFERBS12"
+"SubNetwork=ONRM_ROOT_MO_R,SubNetwork=RNC21,MeContext=RNC21RBS03","cppVersion","CPPTAFRBS"
+"SubNetwork=ONRM_ROOT_MO_R,SubNetwork=RNC21,MeContext=RNC21","cppVersion","CPPTAFRNC"
+"SubNetwork=ONRM_ROOT_MO_R,MeContext=RNC21RXI01","cppVersion","CPPRXITAF"

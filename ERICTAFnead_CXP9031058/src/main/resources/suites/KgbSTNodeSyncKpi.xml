@@ -1,0 +1,10 @@
+<suite name="KGB ST Node Sync Kpi Test">
+    <parameter name="taf.data-provider" value="nodesynckpi"></parameter>
+
+   <test name="KPI test for Node Sync">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.NodeSyncKpi" />
+        </classes>
+    </test>
+    
+ </suite>

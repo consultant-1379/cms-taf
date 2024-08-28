@@ -1,0 +1,4 @@
+nodeType,moType,attributes,primaryAttributeValues,secondaryAttributeValues,attributeValueGC
+ERBS,EUtranCellFDD,"userLabel,tac","testLabel1,2","testLabel2,3",TAF_Test_GC
+RNC,UtranCell,"userLabel,aseUlAdm","testLabel1,159","testLabel2,160",TAF_Test_GC
+MGW,PerformanceSupervisionRule,"userLabel,thresholdType","testLabel1,0","testLabel2,1",TAF_Test_GC

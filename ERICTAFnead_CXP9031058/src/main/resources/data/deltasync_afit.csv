@@ -1,0 +1,3 @@
+nodeType,moType,attributes,primaryAttributeValues,secondaryAttributeValues,timesToRun,attributeValueGC
+RNC,UtranCell,"userLabel,aseUlAdm","testLabel1,159","testLabel2,160",5,"TAF_Test_GC"
+

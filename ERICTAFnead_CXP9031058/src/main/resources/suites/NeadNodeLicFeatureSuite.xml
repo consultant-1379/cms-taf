@@ -1,0 +1,10 @@
+<suite name="NEAD Node license Feature Tests">
+
+    <test name=" Node sync for all CPP nodes ">
+        <classes>
+            <class name="com.ericsson.oss.cms.test.cases.LicenseSync" />
+        </classes>
+    </test>   
+
+</suite>
+
